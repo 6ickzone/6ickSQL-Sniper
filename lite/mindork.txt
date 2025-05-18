@@ -1,0 +1,3 @@
+inurl:".php?id=" site:.com
+inurl:"product.php?item=" site:.id
+inurl:"page.php?cat=" site:.org
